@@ -1,0 +1,9 @@
+author = Signia
+version = 0.1
+displayName = Troweller's Delight (Shovels Mod)
+homepage = https://discord.gg/eQq3twt
+hideCode = true
+hideResources = false
+includeSource = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+includePDB = true

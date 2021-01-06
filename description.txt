@@ -1,0 +1,27 @@
+[c/f97b42:Troweller's Delight v0.1]
+This mod adds shovels for every pickaxe relative to a set.
+How do shovels work? well, they break multiple blocks, 5 at a time to be exact.
+This mod brings an alternative to pickaxes and drills, along with other fun content. (soon)
+Future updates will introduce potions, accessories, treasure hunts, and bosses.
+Note: This mod contains assets and content from the work-in-progress mod "Primordial Sands", once that mod is released this mod will no longer be available.
+
+[c/f97b42:Content]
+v.01 - Initial Release.
+- Implemented All Pre-Hardmode and Hardmode ore shovels.
+Extra Additions:
+- Bone Shovel, Dropped from Skeletons
+- Clubberfish, Obtained from fishing crates
+- Shammer (Hallowed Shovel, Drax Alternative)
+- Farmer's Gloves (Sold by Travelling Merchant)
+
+[c/f97b42:Planned Content]
+- Paleontologist NPC, sells mining related equipment and items. 
+Also gives treasure hunting quests implented by a new fishing like system made for digging tiles.
+- Prosperity Potion, allows ore tiles to drop more ore occasionally. (Fortune III in a nutshell)
+- Goldmine Potion, allows for treasure to be dug up outside of quests.
+- Bottomfeeder Potion, critters have a small chance to fall out of soft blocks.
+
+[c/f97b42:Credits]
+Signia - Programmer
+Eli10293 - Shovel Sprites
+MarieArk - Farmer's Glove
